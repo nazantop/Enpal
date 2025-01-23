@@ -34,9 +34,6 @@ The Appointment Booking System is a .NET 8 application that provides an endpoint
 
 ### Steps
 1. Clone the repository:
-   ```bash
-   cd AppointmentBooking
-   ```
 
 2. Configure the database connection in `appsettings.json`. There is already a valid connection string in appsettings.json file for given docker image:
 
@@ -55,6 +52,7 @@ The Appointment Booking System is a .NET 8 application that provides an endpoint
 
 4. Run the application:
    ```bash
+   cd AppointmentBooking
    dotnet run
    ```
 
