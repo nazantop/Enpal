@@ -91,12 +91,9 @@ The Appointment Booking System is a .NET 8 application that provides an endpoint
 
 ## Testing
 ### Unit Tests
-Run the following command to execute the test suite:
+Run the following command to execute the test suite. The `test.js` file is located into the directory "test-app":
 ```bash
 cd test-app
 npm run test
 ```
 
-Ensure the `test.js` file is located into the directory "test-app"
-
-```
